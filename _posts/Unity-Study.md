@@ -12,28 +12,28 @@ ogImage:
 
 ### 참고 자료
 
-- https://www.youtube.com/watch?v=fVcKN42YXXI&t=33s
-- https://www.youtube.com/watch?v=tZu4x5825LI&t=214s
-- https://www.youtube.com/watch?v=LQL8tXPaQCs
-- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-- https://www.youtube.com/watch?v=OuJ9qSA_w3Q
+- [[자료구조 알고리즘] 그래프(Graph)에 대해서](https://www.youtube.com/watch?v=fVcKN42YXXI)
+- [EBS 링크 소프트웨어 세상, "가장 빠른길을 찾아라, 최단경로 알고리즘"](https://www.youtube.com/watch?v=tZu4x5825LI)
+- [[10분 테코톡] 매튜의 선형 자료구조](https://www.youtube.com/watch?v=LQL8tXPaQCs)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [2022.2 유니티 2D 기초 강의 [8] - 2D Tilemap](https://www.youtube.com/watch?v=OuJ9qSA_w3Q)
 
 ### C# Programming 입문서
 
-- https://wikidocs.net/book/14086
-- https://thebook.io/006890/
-- https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/tutorials/hello-world
+- [C# 프로그래밍 입문 - WikiDocs](https://wikidocs.net/book/14086)
+- [더북(TheBook): C# 교과서](https://thebook.io/006890/)
+- [Hello World - 소개 대화형 자습서 | Microsoft Learn](https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
 
 ### 참고 무료 강의
 
-- https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C-%EC%88%98%ED%95%99-%EC%96%8C%EC%96%8C%EC%BD%94%EB%94%A9
+- [게임 개발을 위한 수학 강의 | 얌얌코딩 - 인프런](https://www.inflearn.com/course/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C-%EC%88%98%ED%95%99-%EC%96%8C%EC%96%8C%EC%BD%94%EB%94%A9)
 
 ### 기타 정보
 
-- https://steemit.com/kr-writing/@nuhorizon/12
-- https://insight.infograb.net/guide/
+- [글쓰기를 도와주는 12가지 생산성 도구 — Steemit](https://steemit.com/kr-writing/@nuhorizon/12)
+- [GitLab(깃랩) 가이드, 사용자 한글 가이드 | 인포그랩](https://insight.infograb.net/guide/)
 
 ### etc.
 
-[RedBlackTreeVisuallizer](http://182.213.157.11:49154/jungmo/redblacktree)
-[멋사 GitLab](http://182.213.157.11:49154/)
+- [RedBlackTreeVisuallizer](http://182.213.157.11:49154/jungmo/redblacktree)
+- [멋사 GitLab](http://182.213.157.11:49154/)
