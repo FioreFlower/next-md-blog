@@ -19,6 +19,7 @@
 
 /*@import "prismjs/themes/prism-tomorrow.css";*/
 
+
 /* 기본 마크다운 스타일 */
 .markdown {
   font-size: 1.125rem; /* text-lg */
@@ -57,6 +58,7 @@
   margin-top: 2rem; /* mt-8 */
   margin-bottom: 1rem; /* mb-4 */
   line-height: 1.5;
+  border-bottom: 0.05rem solid;
 }
 
 .markdown h4 {
@@ -98,27 +100,25 @@
 
 /* 링크 스타일 */
 .markdown a {
-  color: #2563eb; /* Tailwind text-blue-600 */
   text-decoration: underline;
 }
 
 .markdown a:hover {
-  color: #1d4ed8; /* hover:text-blue-700 */
+  color: #163faf; /* hover:text-blue-700 */
 }
 
 /* 인용문 스타일 */
 .markdown blockquote {
-  background-color: #bec2c6;
-  border-left: 4px solid #1d4ed8; 
+  background-color: #d9ebf8;
+  border-left: 4px solid #163faf; 
   padding-left: 1rem;
   font-style: italic;
-  color: #161724; 
+  color: #0c0e2b; 
 }
 
 /* 코드 블록 스타일 */
 .markdown pre {
-  background-color: #1f2937; /* Tailwind bg-gray-900 */
-  color: #e5e7eb; /* Tailwind text-gray-200 */
+  color: #e4dfeb; 
   padding: 1rem;
   border-radius: 0.375rem;
   overflow-x: auto;
@@ -127,7 +127,7 @@
 }
 
 .markdown code {
-  background-color: #252424;
+  background-color: #232222;
   padding: 0.25rem 0.5rem;
   border-radius: 0.375rem;
   font-size: 0.875rem;
@@ -170,10 +170,14 @@
 
 .markdown hr {
   border: none;
-  border-top: 2px solid #d1d5db; /* Tailwind border-gray-300 */
+  border-top: 2px dashed;
   margin: 2rem 0;
 }
 
 .markdown input[type="checkbox"] {
   margin-right: 0.5rem;
+}
+
+.markdown strong {
+  font-weight: 700;
 }
