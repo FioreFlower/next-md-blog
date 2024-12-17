@@ -1,19 +1,45 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "1)  컴퓨터 구조 시작하기"
+excerpt: "컴퓨터의 구조를 왜 알아야할까요?
+개발 언어를 학습하고 문법에 맞게 코드를 작성하면 프로그램을 개발하고 실행하는데 전혀 지장이 없는데 말입니다.
+"
+coverImage: "none"
+date: "2024-12-17T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+  name: Fiore
+  picture: "https://www.gravatar.com/avatar/3d9642f3f1c17c046f3e97f2edba04c6?s=100&d=identicon"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "none"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+컴퓨터의 구조를 왜 알아야할까요?
+개발 언어를 학습하고 문법에 맞게 코드를 작성하면 프로그램을 개발하고 실행하는데 전혀 지장이 없는데 말입니다.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
-## Lorem Ipsum
+강의나 책 혹은 블로그 등에서 발견한 코드를 그대로 작성했는데도 제대로 작동하지 않았던 경험이 한두번 쯤은 있었을 것입니다. 분명 개발 환경에서는 잘 동작했는데 사용자의 환경에서는 동작하지 않는 문제가 발생하기라도 하면 난감하기 짝이 없습니다. 결국 프로그램을 작동 시키는 것은 컴퓨터가 하는 일이니 문제를 찾으려면 컴퓨터를 이해하는 것이 필요합니다.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+
+따라서 임베디드 개발이 목적이 아니더라도 컴퓨터의 구조는 알고 넘어가는 것이 좋을 것입니다.
+
+대기업 채용 공고에서도 이러한 역량을 중요하게 생각하기 때문에 컴퓨터 구조에 대한 소양을 검증하거나 반드시 알아야하는 분야로 명시하기도 합니다.
+
+예를 들어 연애편지를 쓴다고 했을 때  영어 문법을 아주 잘 알고 있는 사람이 있다고 해 봅시다.
+문법에 맞게 문장을 만들 수 있을 수는 있지만 상대방의 마음을 사로 잡는 문장을 만들기 위해서는 상대방을 기쁘게 해주거나 설레게 해줄 수 있는 문장을 만들어야할 것입니다.
+
+그런데 상대방이 누구인지도 모른다면 잘 쓸 수 없는 것과 같습니다.
+
+컴퓨터 구조에 대한 지식은 문법에 맞는 코드만 작성할 줄 아는 개발자를 넘어 다양한 문제를 스스로 해결할 수 있는 개발자로 만들어 줄 것입니다.
+
+## 성능, 용량, 비용
+
+웹 사이트를 하나 개발했다고 했을 때 배포하려면 서버가 필요합니다.
+다양한 가격의 서버들 중 어떤 서버가 개발한 웹사이트에 적합할지 알 수 있나요?
+개인 컴퓨터를 고를 땐 저렴한 제품, 최신 제품 같은 단순한 기준은 큰 문제가 되지 않을 수 있지만 프로그램을 실행해야하는 서버를 고를 때는 문제가 될 수 있습니다.
+
+내가 만든 프로그램을 가장 잘 이해하고 있어야하므로 최적의 컴퓨터 환경을 스스로 판단할 수 있어야합니다.
+
+
+### 키워드 정리
+
+- 컴퓨터 구조를 이해하면 **문제 해결** 능력이 향상될 수 있다.
+- 컴퓨터 구조를 이해하면 문법만으로는 알기 어려운 성능/용량/비용을 고려하며 개발할 수 있다.
