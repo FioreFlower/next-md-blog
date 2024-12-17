@@ -3,7 +3,6 @@
 import markdownStyles from "./markdown-styles.module.css";
 import {useEffect, useState} from "react";
 import hljs from "highlight.js";
-// import "highlight.js/styles/color-brewer.min.css"; // 스타일 파일
 import "highlight.js/styles/tokyo-night-dark.min.css";
 
 type Props = {
