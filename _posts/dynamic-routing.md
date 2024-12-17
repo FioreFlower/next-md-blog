@@ -4,8 +4,8 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Fiore
+  picture: "https://www.gravatar.com/avatar/3d9642f3f1c17c046f3e97f2edba04c6?s=100&d=identicon"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
