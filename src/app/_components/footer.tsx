@@ -1,5 +1,5 @@
 import Container from "@/app/_components/container";
-import {CMS_NAME, EXAMPLE_PATH} from "@/lib/constants";
+import {CMS_NAME, GRAVATAR_URL} from "@/lib/constants";
 
 export function Footer() {
   return (
@@ -9,7 +9,7 @@ export function Footer() {
           <div className="flex flex-col gap-2 mb-10 lg:mb-0 items-center">
             <img 
               className="w-32 h-32 rounded-full"
-              src="https://www.gravatar.com/avatar/3d9642f3f1c17c046f3e97f2edba04c6?s=200&d=identicon" alt="fiore's Gravatar"/>
+              src={GRAVATAR_URL} alt="fiore's Gravatar"/>
             <h3
               className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left lg:mb-0 lg:pr-4 lg:w-1/2 uppercase">
               developed by fiore
